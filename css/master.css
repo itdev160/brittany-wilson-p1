@@ -1,0 +1,59 @@
+body {
+    font-family: 'Tangerine,'sans-serif;
+    margin: auto 30px;
+    color: rgb(51, 51, 51);
+    background-color: #eee;
+}
+.checked {
+    color: orange;
+}
+
+h1 {
+    font-family: 'Amatic SC', 'cursive';
+    text-align: center;
+    color: rgb(24, 23, 23);
+    background-color:#eee;
+    text-shadow: 4px 4px 4px #aaa;
+    text-size-adjust: .75em;
+}
+
+div#credits{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    image-resolution: 100%;
+    height: 300px;
+    width: 60%;
+    text-align: left;
+}
+
+table {
+    border-style: inset;
+}
+
+h2 {
+    font-family: 'Amatic SC', 'cursive';
+    color: rgb(24, 23, 23);
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+h2 .checked {
+    color: orange;
+}
+
+
+
+#credits {
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image {
+    width: 100%;
+    text-align: center;
+}
